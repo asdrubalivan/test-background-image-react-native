@@ -1,0 +1,3 @@
+rootProject.name = 'zindex_test'
+
+include ':app'
